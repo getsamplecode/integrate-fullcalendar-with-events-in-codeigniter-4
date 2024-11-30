@@ -24,5 +24,6 @@ In this tutorial, we show you **how to integrate the Stripe payment gateway in C
 11 Run Web Server to Test the App
 12 Conclusion
 ```
+---
 
 ### [Learn More: Codeigniter 4 Stripe Payment Gateway: Fast & Secure Payment Integration](https://getsamplecode.com/blog/codeigniter-4-stripe-payment-gateway-fast-secure-payment-integration)
