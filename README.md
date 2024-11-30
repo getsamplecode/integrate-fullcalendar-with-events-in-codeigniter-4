@@ -1,10 +1,9 @@
-# Codeigniter 4 Stripe Payment Gateway: Fast & Secure Payment Integration
+# CodeIgniter 4 FullCalender: Integrate FullCalendar with Events
 
-Learn how to integrate Stripe payment gateway in CodeIgniter 4
-A payment gateway is a crucial component of any e-commerce site or application that requires payment processing. The **Codeigniter 4 Stripe payment gateway integration** is one of the simplest and most powerful solutions available. The Stripe payment gateway API offers a streamlined way to integrate a credit card payment option on a website. With the Stripe API, users can make online payments using their credit or debit cards. A credit card checkout system can easily be implemented on a web application using the Stripe payment gateway in CodeIgniter 4.
+CodeIgniter 4 FullCalendar Example Tutorial
+             Integrating FullCalendar with events in CodeIgniter 4 is a straightforward process that provides a powerful and responsive calendar system for your application. FullCalendar is an open-source jQuery library that allows you to create, edit, and manage events efficiently. With drag-and-drop functionality and customization options, FullCalendar makes event handling seamless.
 
-In this tutorial, we show you **how to integrate the Stripe payment gateway in CodeIgniter 4** and accept credit card payments on a website with the Stripe API.
-
+This guide walks you through an example of creating a CRUD application in CodeIgniter 4 to manage events using FullCalendar. You will set up a database, create a migration, define a model, and implement a controller to handle FullCalendar operations.
 
 **Table of Content**
 
@@ -14,16 +13,15 @@ In this tutorial, we show you **how to integrate the Stripe payment gateway in C
 3 Create / Install a Codeigniter 4 Project
 3.1 Install Codeigniter 4 Project
 3.2 Configure Environment (.env)
-4 Install the Stripe Library
-5 Configure Stripe Keys
-6 Create A Model and Migration
-7 Create New Controller (StripeController)
-8 Create Index View File
-9 Define a Route
-10 Folder Structure
-11 Run Web Server to Test the App
-12 Conclusion
+4 Create Migration and Model
+5 Create Database Seeder
+6 Create New Controller - FullCalenderController
+7 Create a View
+8 Define a Route
+9 Folder Structure
+10 Run Web Server to Test the App
+11 Conclusion
 ```
 ---
 
-### [Learn More: Codeigniter 4 Stripe Payment Gateway: Fast & Secure Payment Integration](https://getsamplecode.com/blog/codeigniter-4-stripe-payment-gateway-fast-secure-payment-integration)
+### [Read More: Codeigniter 4 FullCalender: Integrate FullCalendar with Events](https://getsamplecode.com/blog/integrate-fullcalendar-with-events-in-codeigniter-4)
